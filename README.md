@@ -1,6 +1,6 @@
 # london-house-price-crime-visualisation!
 
-![alt text](https://github.com/chkwokmichael/london-house-price-crime-visualisation/preview.jpg?raw=true)
+![alt text](https://github.com/chkwokmichael/london-house-price-crime-visualisation/preview.jpg)
 
 
 This is a dashboard which contains the information of average house prices (purchase and rental) of houses in london, and its associated crime rate and top crimes.
